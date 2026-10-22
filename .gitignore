@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+sales_calls.db
+recordings/*
+!recordings/.gitkeep
